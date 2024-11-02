@@ -30,5 +30,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/guitaicico/)](https://www.linkedin.com/in/guitaicico/)
 [![Linkedin](https://img.shields.io/badge/Instagram-333333?style=flat&logo=instagram&logoColor=E4405F&link=https://www.instagram.com/guitaicicoo/)](https://www.instagram.com/guitaicicoo/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-333333?style=flat&logo=whatsapp&logoColor=25D366link=https://www.linkedin.com/in/guitaicico/)]()
-[![GmailBadge](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=Gmail&logoColor=D14836&link=mailto:guilhermetaicico@gmail.com)](mailto:guilhermetaicico@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-333333?style=flat&logo=whatsapp&logoColor=25D366link=https://wa.me/5511961418352)]()
+[![GmailBadge](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=Gmail&logoColor=D14836&link=mailto:gzdevx@gmail.com)](mailto:gzdevx@gmail.com)
