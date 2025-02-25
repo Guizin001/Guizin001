@@ -1,7 +1,7 @@
 ## Olá, meu nome é Guilherme Taicico!
 
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Unicsul.
-- 🌱 Aprendendo mais sobre ![image](https://img.shields.io/badge/Ruby-333333?style=flat&logo=react&logoColor=CC342D).
+- 🌱 Aprendendo mais sobre ![image](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=CC342D).
 
 ## Minhas Skills
 
