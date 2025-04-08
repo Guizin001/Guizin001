@@ -41,6 +41,7 @@ Aqui estão algumas estatísticas sobre meu GitHub:
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizin001&layout=donut&theme=midnight-purple&show_icons=true" />
   </a>
 </p>
+
 ---
 
 ## 🌍 Onde me encontrar
