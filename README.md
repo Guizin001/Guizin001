@@ -1,9 +1,9 @@
-<!-- Imagem de Banner -->
+<!-- Imagem de Banner 
 <p align="center">
   <img src="https://i.imgur.com/26p4j6g.png" alt="Banner" height="300em"/>
 </p>
-
-# Olá, eu sou o Guitaicico 👋
+-->
+# Olá, eu sou o Guilherme Taicico 👋
 
 Desenvolvedor apaixonado por **tecnologia, aplicações web** e **análise de dados**. Busco sempre aprender novas habilidades e melhorar o que já sei. Adoro desafios e sou entusiasta em construir soluções criativas para problemas reais.
 
